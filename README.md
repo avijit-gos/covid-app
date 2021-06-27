@@ -2,8 +2,8 @@
 
 API which I used in this React project is https://covid19.mathdro.id/api;
 
-Also I used som of the framwork:
-1. axios: promise-based HTTP client that sports an easy-to-use API.
+Also I used some of the framwork:
+1. axios: promise-based HTTP client that support an easy-to-use API.
 for installing axios:
 
 yarn add axios
